@@ -1,0 +1,99 @@
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapIade.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVerme.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapIade.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVerme.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapIade.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVerme.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapIade.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVerme.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEkle.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListele.resources
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\kütüphane otomasyonu -değiştirilmiş hali akline gelen şekilde - Kopya - Kopya\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapIade.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapListele.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.EmanetKitapVerme.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapEkle.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapListele.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeEkle.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeListele.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.GirisEkranı.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapArama.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapBilgilerininGuncellenmesi.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.KitapKaydıSilme.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeArama.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeBilgileriGuncelleme.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.UyeSilmeIslemi.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.PersonelKayitEkrani.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.PersonelListesi.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.PersonelYetkilendirmeEkrani.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.PersonelYetkisizlendirmeEkrani.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.YetkiliPersonelListesi.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.PersonelAramaEkrani.resources
+C:\Users\User\Desktop\KİSMİ\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.PersonelBilgileriGuncellemeEkrani.resources
